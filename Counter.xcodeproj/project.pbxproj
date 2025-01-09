@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		022398F72D2F8FDB00F7CDF9 /* Задача по спринту 3.md in Resources */ = {isa = PBXBuildFile; fileRef = 022398F62D2F8FD400F7CDF9 /* Задача по спринту 3.md */; };
+		022398F72D2F8FDB00F7CDF9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 022398F62D2F8FD400F7CDF9 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -31,7 +31,7 @@
 		022398AC2D2F8DBA00F7CDF9 /* Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Counter.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		022398C22D2F8DBC00F7CDF9 /* CounterTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		022398CC2D2F8DBC00F7CDF9 /* CounterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CounterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		022398F62D2F8FD400F7CDF9 /* Задача по спринту 3.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Задача по спринту 3.md"; sourceTree = "<group>"; };
+		022398F62D2F8FD400F7CDF9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -93,7 +93,7 @@
 		022398A32D2F8DBA00F7CDF9 = {
 			isa = PBXGroup;
 			children = (
-				022398F62D2F8FD400F7CDF9 /* Задача по спринту 3.md */,
+				022398F62D2F8FD400F7CDF9 /* README.md */,
 				022398AE2D2F8DBA00F7CDF9 /* Counter */,
 				022398C52D2F8DBC00F7CDF9 /* CounterTests */,
 				022398CF2D2F8DBC00F7CDF9 /* CounterUITests */,
@@ -231,7 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				022398F72D2F8FDB00F7CDF9 /* Задача по спринту 3.md in Resources */,
+				022398F72D2F8FDB00F7CDF9 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
